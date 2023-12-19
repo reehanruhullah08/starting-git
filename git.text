@@ -1,0 +1,5 @@
+git clone link[path]----to creata a directory in system
+ ls -force/ -a      ---to view hidden files
+
+ git status  ------ to view the status
+ 
